@@ -1,0 +1,3 @@
+git add package.json
+git commit -m "Fix: Set homepage to '.' for Vercel deployment"
+git push origin main
